@@ -8,8 +8,8 @@ insurance. This analysis would have a bearing on what premium should the company
 customer availing an insurance policy.
 - Objective:
    - Finding out the health parameters that affect health insurance claims and to do a cause and effect analysis on historic-data of insurance claims
-- Dataset Information:
-   - Attribute Description
+#### Dataset Information:
+- Attribute Description
     - Age - Age of the customer/claimant who has claimed insurance for medical treatment charges
     - Sex - Gender of the customer/claimant
     - bmi - Health parameter: person's weight in kilograms divided by the square of height in meters
